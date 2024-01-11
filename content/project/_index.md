@@ -1,24 +1,22 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: My projects
+description: ""
+author: ""
 show_post_thumbnail: true
-show_author_byline: true
-show_post_date: false
+show_author_byline: false
+show_post_date: true
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Antimicrobial resistance project
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    This project is currently under manuscript preparation stage.
+  author: "Eldon Ager"
   text_link_label: ""
   text_link_url: ""
-  show_sidebar_adunit: false # show ad container
+  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all individual pages inside project/
 cascade:    
